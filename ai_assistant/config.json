@@ -1,0 +1,7 @@
+{
+    "wake_word": "jarvis",
+    "log_file": "assistant.log",
+    "memory_file": "memory.json",
+    "vosk_model_path": "models/en-us",
+    "backup_path": "backups"
+  }

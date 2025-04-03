@@ -1,0 +1,24 @@
+2025-03-30 20:28:44 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 20:28:44 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 20:30:13 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 20:30:13 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 21:21:24 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 21:21:24 - AI_Assistant - INFO - AI Assistant started
+2025-03-30 21:21:29 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:29 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:34 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:34 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:40 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:40 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:45 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:45 - AI_Assistant - ERROR - Error in main loop: 'WakeWordDetector' object has no attribute 'listen'
+2025-03-30 21:21:47 - AI_Assistant - INFO - Assistant shutting down
+2025-03-30 21:21:47 - AI_Assistant - INFO - Assistant shutting down
+2025-03-30 21:21:47 - AI_Assistant - CRITICAL - Fatal error: run loop already started
+2025-03-30 21:21:47 - AI_Assistant - CRITICAL - Fatal error: run loop already started
+2025-03-30 21:31:26 - AI_Assistant - INFO - AI Assistant starting up
+2025-03-30 21:31:26 - AI_Assistant - INFO - AI Assistant starting up
+2025-03-30 21:33:02 - AI_Assistant - INFO - Command received: what kind of as though
+2025-03-30 21:33:02 - AI_Assistant - INFO - Command received: what kind of as though
+2025-03-30 21:33:02 - AI_Assistant - ERROR - Command processing error: 'conversations'
+2025-03-30 21:33:02 - AI_Assistant - ERROR - Command processing error: 'conversations'
